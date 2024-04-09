@@ -32,7 +32,7 @@ names it "Archive.zip", calculates the file's hash, and saves the hash to a text
 .NOTES
 Author: 1275
 Date:   2024-04-09 
-#>
+#> 
 
 param(
     [Parameter(Mandatory=$true)]
